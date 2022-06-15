@@ -4,13 +4,14 @@ This is an english hebrew light dictionary REST-API for your LAN
 !To use this program first you need to have mongodb installed on your machine!
 
 Setup guide:
-1.create a folder where you will run your database and run in terminal mongodb,
+1. create a folder where you will run your database and run in terminal mongodb,
 using the command: 
 
-  (path to mongodb folder)\bin\mongod.exe --dbpath=(folder path)
+    (path to mongodb folder)\bin\mongod.exe --dbpath=(folder path)
 
-2.go to the project root folder and run: npm run createdb. it will create the whole database of words for the api.
-3.start the api service by using the command in the terminal: npm start
+2. go to the project root folder and run: npm run createdb. it will create the whole database of words for the api.
+
+3. start the api service by using the command in the terminal: npm start
 You are now good to go!
 
 
